@@ -44,9 +44,9 @@ import { Client, ChatBuilder, Models } from './path/to/your/file.mjs';
 
 const client = new Client({
   token: "YOUR_API_TOKEN",         // Your Qwenlm API token
-  bxumidtoken: "YOUR_SESSION_ID",    // Your session ID
-  bxua: "YOUR_USER_AGENT",           // Your user agent
-  stream: false                     // Option to use event stream for chat completions (optional)
+  // bxumidtoken: "YOUR_SESSION_ID",     Your session ID (optional)
+  // bxua: "YOUR_USER_AGENT",            Your user agent (optional)
+  //stream: false                      Option to use event stream for chat completions (optional)
 });
 ```
 
