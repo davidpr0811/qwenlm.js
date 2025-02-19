@@ -1,7 +1,3 @@
-Below is an example README for your project:
-
----
-
 # Qwenlm Chat API Client
 
 This library provides a simple client for interacting with the Qwenlm Chat API. It offers:
